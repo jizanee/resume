@@ -22,6 +22,7 @@ Software Engineer with 15+ years of experience designing and building clean, mai
 ### HashiCorp
 **Senior Software Engineer — Remote | Jan 2023 – Present**  
 Terraform Cloud team focusing on building and maintaining VCS/GitOps integrations, notifications, Terraform state parsing and storage, and various other services.
+
 Tech stack: Go, Ruby, JavaScript, Ember.js, Terraform, Nomad.
 
 - Core contributor of [tfc-workflows-tooling](https://github.com/hashicorp/tfc-workflows-tooling), a Go-based CLI that enables CI/CD integrations with Terraform Cloud; improved developer experience and reduced friction for teams adopting Terraform Cloud in their pipelines. Blog: [HashiCorp releases new CI/CD pipeline integration tool templates for Terraform](https://www.hashicorp.com/en/blog/hashicorp-releases-new-ci-cd-pipeline-integration-tool-templates-for-terraform)
