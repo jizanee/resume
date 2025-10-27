@@ -21,7 +21,9 @@ Software Engineer with 15+ years of experience designing and building clean, mai
 
 ### HashiCorp
 **Senior Software Engineer — Remote | Jan 2023 – Present**  
-Terraform Cloud team focusing on building and maintaining VCS/GitOps integrations, notifications, Terraform state parsing and storage, and various other services.  
+Terraform Cloud team focusing on building and maintaining VCS/GitOps integrations, notifications, Terraform state parsing and storage, and various other services.
+Tech stack: Go, Ruby, JavaScript, Ember.js, Terraform, Nomad.
+
 - Core contributor of [tfc-workflows-tooling](https://github.com/hashicorp/tfc-workflows-tooling), a Go-based CLI that enables CI/CD integrations with Terraform Cloud; improved developer experience and reduced friction for teams adopting Terraform Cloud in their pipelines. Blog: [HashiCorp releases new CI/CD pipeline integration tool templates for Terraform](https://www.hashicorp.com/en/blog/hashicorp-releases-new-ci-cd-pipeline-integration-tool-templates-for-terraform)
 - Led the design and implementation of publishing private registry modules in Terraform Cloud from a single Git monorepo containing multiple modules.
 - Improved performance of Terraform Cloud’s VCS/Git workloads by optimizing Git operations (sparse-checkout, partial clone, shallow clone), significantly reducing clone times for large repositories.
@@ -30,9 +32,9 @@ Terraform Cloud team focusing on building and maintaining VCS/GitOps integration
 - Hands-on experience helping customers troubleshoot and resolve ongoing issues with Terraform Cloud.
 - Tech stack: Go, Ruby, JavaScript, Ember.js, Terraform, Nomad.
 
-### Core Digital Media (part of Rocket Companies)
+### Core Digital Media (part of Rocket Companies) | Jan 2016 – Dec 2022
 
-#### Principal Software Engineer — Los Angeles, CA | Dec 2021 – Present
+#### Principal Software Engineer — Los Angeles, CA | Dec 2021 – Dec 2022
 Leading engineering of platform microservices. Collaborating with and mentoring engineers across design, development, and testing.  
 - Led team to build an Auth service in Java for authentication and authorization of inbound API calls to organization APIs.
 - Evaluated and launched a new API gateway in Java using Spring Cloud Gateway; added circuit breaker, security, and Apache Zookeeper integration for distributed dynamic configuration.
