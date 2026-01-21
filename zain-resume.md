@@ -3,7 +3,7 @@
 zainqazirox@gmail.com | 310-717-3351 | Los Angeles, California | [LinkedIn](https://www.linkedin.com/in/zain-qazi-hasan-8a083259/) | [GitHub](https://github.com/zainq11)
 
 ## Summary
-Software Engineer with 15+ years of experience designing and building clean, maintainable, and scalable systems. Passionate about clean, maintainable code.
+Software engineer with 15+ years of experience building high-impact products and platforms. Deep expertise in cloud infrastructure, developer tooling, and scalable distributed systems.
 
 ## Skills
 - Programming Languages: Go, Ruby, Java, JavaScript, SQL, Python, TypeScript, Lua, Shell
