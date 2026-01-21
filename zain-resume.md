@@ -10,7 +10,7 @@ Software Engineer with 15+ years of experience designing and building clean, mai
 - Frameworks/Libraries: Rails, Temporal, Sidekiq, Ember.js, Spring Boot, Node.js, React, Flask
 - Testing Frameworks: Go test suite, RSpec, JUnit, Mockito, Jest, TestContainers, Gatling
 - Databases: Postgres, Redis, Oracle, MongoDB
-- Tools: Git, Terraform, GitHub Actions, GitLab CI, Nomad, Vault, AWS services, Ansible, Jenkins, Docker, Datadog, Prometheus, Grafana
+- Tools: Git, Terraform, Docker, GitHub Actions, GitLab CI, Nomad, Vault, AWS services, Ansible, Jenkins, Docker, Datadog, Prometheus, Grafana
 
 ## Education
 - Master of Science in Computer Science (2019 – 2022), Georgia Institute of Technology, Atlanta  
@@ -18,9 +18,9 @@ Software Engineer with 15+ years of experience designing and building clean, mai
 - Bachelor of Technology, Computer Science and Engineering (2006 – 2010), Cochin University of Science and Technology (CUSAT), Kochi, India
 
 ## Work Experience
-### HashiCorp
+### HashiCorp, an IBM Company
 ##### Senior Software Engineer — Remote | Jan 2023 – Present
-Terraform Cloud team focusing on building and maintaining VCS/GitOps integrations, notifications, Terraform state parsing and storage, and various other services.
+Engineering Lead for the HCP Terraform team focusing on building and maintaining VCS/GitOps integrations, Notifications, Terraform State Parsing and storage, and various other services.
 Tech stack: Go, Ruby, JavaScript, Ember.js, Terraform, Nomad.
 
 - Core contributor of [tfc-workflows-tooling](https://github.com/hashicorp/tfc-workflows-tooling), a Go-based CLI that enables CI/CD integrations with Terraform Cloud. Led to improved developer experience and reduced friction for teams adopting Terraform Cloud in their CI pipelines. Blog: [HashiCorp releases new CI/CD pipeline integration tool templates for Terraform](https://www.hashicorp.com/en/blog/hashicorp-releases-new-ci-cd-pipeline-integration-tool-templates-for-terraform)
@@ -29,7 +29,7 @@ Tech stack: Go, Ruby, JavaScript, Ember.js, Terraform, Nomad.
 - Led design and implementation of [Private VCS](https://developer.hashicorp.com/terraform/cloud-docs/vcs/private) for Terraform Cloud, enabling customers to securely connect private air‑gapped VCS systems to Terraform Cloud workspaces.
 - Contributed to shipping [Terraform Stacks](https://www.hashicorp.com/en/blog/terraform-stacks-explained), enabling users to manage multiple related infrastructure deployments at scale.
 - Hands-on experience with helping customers troubleshoot and resolve ongoing issues with Terraform Cloud.
-- Tech stack: Go, Ruby, JavaScript, Ember.js, Terraform, Nomad.
+- Tech stack: Go, Ruby, JavaScript, Ember.js, Terraform, Docker.
 
 ### Core Digital Media (part of Rocket Companies) | Jan 2016 – Dec 2022
 
