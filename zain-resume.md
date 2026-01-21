@@ -1,11 +1,13 @@
 # Zain Hasan
 
-zainqazirox@gmail.com | 310-717-3351 | Los Angeles, California | [LinkedIn](https://www.linkedin.com/in/zain-qazi-hasan-8a083259/) | [GitHub](https://github.com/zainq11)
+[zainqazirox@gmail.com](zainqazirox@gmail.com) | 310-717-3351 | Los Angeles, California | [LinkedIn](https://www.linkedin.com/in/zain-qazi-hasan-8a083259/) | [GitHub](https://github.com/zainq11)
 
-## Summary
+## Introduction
+
 Software engineer with 15+ years of experience building high-impact products and platforms. Deep expertise in cloud infrastructure, developer tooling, and scalable distributed systems.
 
 ## Skills
+
 - Programming Languages: Go, Ruby, Java, JavaScript, SQL, Python, TypeScript, Lua, Shell
 - Frameworks/Libraries: Rails, Temporal, Sidekiq, Ember.js, Spring Boot, Node.js, React, Flask
 - Testing Frameworks: Go test suite, RSpec, JUnit, Mockito, Jest, TestContainers, Gatling
@@ -13,13 +15,17 @@ Software engineer with 15+ years of experience building high-impact products and
 - Tools: Git, Terraform, Docker, GitHub Actions, GitLab CI, Nomad, Vault, AWS services, Ansible, Jenkins, Docker, Datadog, Prometheus, Grafana
 
 ## Education
+
 - Master of Science in Computer Science (2019 – 2022), Georgia Institute of Technology, Atlanta  
   Specialization: Computing Systems | GPA 4.0
-- Bachelor of Technology, Computer Science and Engineering (2006 – 2010), Cochin University of Science and Technology (CUSAT), Kochi, India
+- Bachelor of Technology, Computer Science and Engineering (2006 – 2010), Cochin University of Science and Technology, India
 
 ## Work Experience
+
 ### HashiCorp, an IBM Company
+
 ##### Senior Software Engineer — Remote | Jan 2023 – Present
+
 Engineering Lead for the HCP Terraform team focusing on building and maintaining VCS/GitOps integrations, Notifications, Terraform State Parsing and storage, and various other services.
 Tech stack: Go, Ruby, JavaScript, Ember.js, Terraform, Nomad.
 
@@ -34,6 +40,7 @@ Tech stack: Go, Ruby, JavaScript, Ember.js, Terraform, Nomad.
 ### Core Digital Media (part of Rocket Companies) | Jan 2016 – Dec 2022
 
 ##### Principal Software Engineer — Los Angeles, CA | Dec 2021 – Dec 2022
+
 Leading engineering of platform microservices. Collaborating with and mentoring engineers across design, development, and testing.
 
 - Led team to build an Auth service in Java for authentication and authorization of inbound API calls to organization APIs.
